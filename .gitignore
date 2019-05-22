@@ -1,0 +1,11 @@
+Release/*
+Debug/*
+*.1.1
+*.log
+*.vssscc
+*.scc
+CVS/*
+Thumbs.Debug
+res/Thumbs.db
+PiggViewer.suo
+PiggViewer.aps
